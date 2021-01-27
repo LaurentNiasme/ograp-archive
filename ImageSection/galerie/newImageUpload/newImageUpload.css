@@ -1,0 +1,26 @@
+.vignette-image-upload{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 23%;
+    height: auto;
+    /* max-height: 300px; */
+   
+    margin: 0.5rem;
+}
+
+.contain-image{
+    width: auto;
+    height: auto;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.068);
+}
+
+.image-upload{
+  
+    max-width: 100%;
+    height: auto;
+}
+
+.close-button{
+    height: auto;
+}

@@ -1,0 +1,30 @@
+.main-image{
+    /* position: relative; */
+    display: flex;
+    /* margin: auto; */
+    justify-content: center;
+    width: auto;
+    height: auto;
+    margin-right: 1rem;
+
+
+  }
+
+  .main-image {
+    box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.5);
+  }
+
+  .container-stickers-image {
+    width: auto;
+    height: auto;
+    margin: auto;
+    position: relative;
+
+  }
+
+  .image-comment{
+    margin: auto;
+    max-width:100%;
+    height:auto;
+
+  }

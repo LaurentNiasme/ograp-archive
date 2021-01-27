@@ -1,0 +1,71 @@
+.main-image-FeedBack {
+    width: 100%;
+    height: 80%;
+    /* max-width: 100%;
+    max-height: 100%; */
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* margin:3rem; */
+   
+    
+}
+
+
+
+/* .carrousel{
+    max-height: 50%;
+    background-color: red;
+} */
+
+.inner-carrousel{
+    width:auto;
+    height: auto;
+    
+   
+}
+
+.main-picture {
+    /* width: 125vh;
+    height: 100%; */
+    /* margin: 10px; */
+    width: 100%;
+    height: 100%;
+    /* max-width: 117vh;
+    max-height: 80vh; */
+    border-radius: 1%;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.container-stickers-picture {
+    width: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    flex-shrink: 0;
+    /* box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5); */
+    border-radius: 1vh;
+    
+}
+
+.self-picture {
+    width: 100%;
+    height: 100%;
+}
+
+.picture-portrait{
+    max-height: 65vh;
+    max-width: 55vh;
+}
+
+.imageCarrousel {
+    /* display: block; */
+    max-width: 100%;
+    height: auto;
+
+}

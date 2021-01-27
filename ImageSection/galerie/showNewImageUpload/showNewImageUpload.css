@@ -1,0 +1,10 @@
+.container-new-image-upload {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 90%;
+ 
+    overflow: auto;
+    column-count: 4;
+}

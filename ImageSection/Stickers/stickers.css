@@ -1,0 +1,14 @@
+.stickers {
+    background-color: #FF0066;
+    border-radius: 25px;
+    border: solid 1px;
+    border-color: beige;
+    position:absolute;
+    height: 16px;
+    width: 16px;
+    z-index: 289;
+    /* top: 10px;
+    left: 10px; */
+
+
+}
